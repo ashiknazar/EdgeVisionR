@@ -1159,5 +1159,5 @@ The architecture is modular: **object detection**, **face recognition**, and **i
 
 ---
 
-
+![](images/final.png)
 
